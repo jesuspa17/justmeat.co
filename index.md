@@ -130,7 +130,6 @@ disclaimer: True
 
 ## Wikis
 
-* [Carnivore Wiki](https://carnivorewiki.com/wiki/Main_Page)
 * [r/ketoscience Wiki](https://www.reddit.com/r/ketoscience/wiki/index)
 * [r/zerocarb Wiki](https://www.reddit.com/r/zerocarb/wiki/index)
 
