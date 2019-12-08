@@ -122,6 +122,7 @@ disclaimer: True
 * [_Letter To A Vegetarian Nation: We Need Livestock For Sustainable Food Production And Environmental Restoration_](https://amzn.to/2IZCTnr) by Sheldon Frith [Amazon] ([Other formats](http://lettertovegetarians.com/))
 * [_Holistic Management: A Commonsense Revolution to Restore Our Environment_](https://amzn.to/2GEdInI) by Allan Savory and Jody Butterfield [Amazon]
 * [_Butchering Beef: The Comprehensive Photographic Guide to Humane Slaughtering and Butchering_](https://amzn.to/2ZIxSWk) by Adam Danforth [Amazon]
+* [_Whole Beast Butchery: The Complete Visual Guide to Beef, Lamb, and Pork_](https://amzn.to/38g3GWL) by Ryan Farr with Brigit Binns [Amazon]
 * [_Grass-Fed Cattle: How to Produce and Market Natural Beef_](https://amzn.to/2ZHf9KD) by Julius Ruechel [Amazon]
 * [_Storey's Guide to Raising Beef Cattle_](https://amzn.to/2UIkVrS) by Heather Smith Thomas [Amazon]
 * [_Defending Beef: The Case for Sustainable Meat Production_](https://amzn.to/2L6tfSr) by Nicolette Hahn Niman [Amazon]
